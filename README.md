@@ -51,6 +51,6 @@
 
 ## Worked With
 
-- [Ridwanul Haque](https://github.com/rhridwan)
-- [Nasim Mahmud](https://github.com/Nasim-Mahmud)
-- [Riyad Hossain](https://github.com/riyad1721)
+- [Iftekhar Priyo](https://github.com/IftekharPriyo)
+- [Saif](https://github.com/msak04/msak04)
+
