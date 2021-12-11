@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "260" width="200" align="right" src="https://github.com/rifatahammed/RifatAhammed/blob/main/rifff-glitch.gif"></a>
+<a target="_blank"><img height = "260" width="200" align="right" src="https://github.com/rifatahammed/RifatAhammed/blob/main/bye.gif"></a>
 
 ### Hi there 👋
 
