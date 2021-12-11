@@ -36,14 +36,14 @@
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0pUPeFmU007dovopz3IAqytqDyuUMsTcSw&usqp=CAU"></code>
+
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4hqDuVksmXZDOL5GTs5F0CoRayE0Nzdyw&usqp=CAU"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp97AbAfnOnQxMZKatdzXsWBauoFw72ip6iw&usqp=CAU"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="30" src="https://git-scm.com/images/logos/2color-lightbg@2x.png"></code>
-<code><img height="40" src="https://content.instructables.com/ORIG/FN3/EKLM/HWL2BOAS/FN3EKLMHWL2BOAS.png?fit=bounds&frame=1&height=1024&width=1024&auto=webp&frame=1&height=300"></code>
-<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_33b227ccb262698c084f608cd5448aea/atlas-ti.png"></code>
+
 <code><img height="50" src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
