@@ -12,6 +12,10 @@
  <b>CSE graduate</b> from  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
 </p>
 
+<p align="justify">
+ <b>Game Developer</b>
+</p>
+
 ## ABOUT ME
 
 - 🔭 I m busy to sort my Youtube watch Later list
@@ -34,6 +38,8 @@
 
 ## Tools & Language
 
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img height="50" src="https://www.researchgate.net/profile/Sergio-Almajano-Bravo/publication/332980762/figure/fig8/AS:756974526398465@1557488199123/Unreal-Engine-Logo-Retrieved-from.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4hqDuVksmXZDOL5GTs5F0CoRayE0Nzdyw&usqp=CAU"></code>
@@ -47,10 +53,11 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSyWN3NTgVt613TRMroNlh_t52vo3tbXW2A&usqp=CAU"></code>
 <code><img height="50" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png"></code>
-<code><img height="50" src="https://zsyst.com/wp-content/uploads/2017/05/Adobe-Premiere-Pro-Logo.png"></code>
+
 
 ## Worked With
 
+- [Tokey](https://github.com/Tokey)
 - [Iftekhar Priyo](https://github.com/IftekharPriyo)
 - [Saif](https://github.com/msak04/msak04)
 
