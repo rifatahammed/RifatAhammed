@@ -2,27 +2,25 @@
 <img align="right" height="260" width="300" src="https://github.com/rifatahammed/RifatAhammed/blob/main/bye.gif">
 </a>
 
-# Hi there 👋
+<h2>Hi there 👋</h2>
 
-# I'm Rifat Ahammed
+<h1>I'm Rifat Ahammed</h1>
 
-### 🎮 Game Designer & Gameplay Programmer
-
-### ⚙️ Unreal Engine Generalist
+<h3>🎮 Game Designer & Gameplay Programmer</h3>
+<h3>⚙️ Unreal Engine Generalist</h3>
 
 <p align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=17&duration=1800&pause=900&color=FFFFFF&vCenter=true&width=300&lines=Shader+Compiling+(12%2F6745)...;Build+Failed.;Fatal+Error.;UE+Has+Crashed.;Compiling+Error..." />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=17&duration=1800&pause=900&color=FFFFFF&vCenter=true&width=300&lines=Shader+Compiling+(12%2F6745)...;Compiling+C%2B%2B...;Build+Failed.;Fatal+Error.;UE+Has+Crashed.;Compiling+Error..." />
 </p>
 
+[![Gmail](https://img.shields.io/badge/-Send%20Mail-14171A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reardj007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-ahammed/)
 
 ---
 
 ## About Me
 
-I enjoy creating memorable gameplay experiences by combining game design with gameplay programming.
-
-My focus is designing mechanics, prototyping ideas, and building gameplay systems in Unreal Engine.
+I build gameplay experiences that players remember. From prototyping mechanics to implementing gameplay systems in Unreal Engine, I enjoy turning ideas into interactive experiences.
 
 ---
 
@@ -37,6 +35,9 @@ My focus is designing mechanics, prototyping ideas, and building gameplay system
 ---
 
 ## Connect
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/rifat-ahammed/
 
 - 📧 Email  
   reardj007@gmail.com
