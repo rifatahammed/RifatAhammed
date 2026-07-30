@@ -1,63 +1,78 @@
-<a target="_blank"><img height = "260" width="300" align="right" src="https://github.com/rifatahammed/RifatAhammed/blob/main/bye.gif"></a>
+<a target="_blank">
+<img align="right" height="260" width="300" src="https://github.com/rifatahammed/RifatAhammed/blob/main/bye.gif">
+</a>
 
-### Hi there 👋
+# Hi there 👋
 
-# This is Rifat Ahammed
+# I'm Rifat Ahammed
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:reardj007@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rifat-ahammed/)
-![Profile views](https://gpvc.arturio.dev/rifatahammed)
+### 🎮 Game Designer & Gameplay Programmer
 
-<p align="justify">
- <b>CSE graduate</b> from  <a href="http://www.northsouth.edu/" target="_blank">North South University</a>
+### ⚙️ Unreal Engine Generalist
+
+[![Gmail](https://img.shields.io/badge/-Send%20Mail-14171A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reardj007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-ahammed/)
+![Profile Views](https://gpvc.arturio.dev/rifatahammed)
+
+---
+
+## About Me
+
+I'm passionate about creating memorable gameplay experiences.
+
+I enjoy designing mechanics, prototyping ideas, and building gameplay systems using Unreal Engine. My focus is turning game concepts into polished player experiences.
+
+---
+
+## What I Do
+
+- 🎮 Gameplay Programming
+- 🧠 Game Design
+- ⚙️ Unreal Engine Development
+- 🎯 Gameplay Prototyping
+- 🤝 Team Collaboration
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rifatahammed&theme=dracula&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatahammed&layout=compact&theme=dracula&hide_border=true"/>
+
 </p>
 
-<p align="justify">
- <b>Game Developer</b>
+---
+
+## Tools
+
+<p>
+
+<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Unreal_Engine_Logo.svg"/>
+
+<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
+
+<img height="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+
+<img height="45" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
+
+<img height="45" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
+
+<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Blender_3D_logo.svg"/>
+
+<img height="45" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"/>
+
 </p>
 
-## ABOUT ME
+---
 
-- 🔭 I m busy to sort my Youtube watch Later list
-- 💼 Founder of Noakhali Math and Programming Circle <b>NMPC</b>
-- 🔧 I’m interested in Programming, web development, game development,Music
-- 🎯 My goal is learning
-- 📫 How to reach me: drop a mail
-- 🎨 Fun fact: My name is Giovanni Giorgio, but everybody calls me Giorgio
+## Connect
 
-## GIT STATUS
+- 💼 LinkedIn → https://www.linkedin.com/in/rifat-ahammed/
+- 📧 Email → reardj007@gmail.com
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=rifatahammed&theme=dracula&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatahammed&theme=dracula&layout=compact&hide_border=true)
+---
 
-## External Websites
-
-- [Personal Website](https://rifatahammed.github.io/)
-- [Facebook](https://www.facebook.com/rifatahammed)
-- [Twitter](https://twitter.com/rifatahammed)
-
-## Tools & Language
-
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img height="50" src="https://www.researchgate.net/profile/Sergio-Almajano-Bravo/publication/332980762/figure/fig8/AS:756974526398465@1557488199123/Unreal-Engine-Logo-Retrieved-from.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLu4hqDuVksmXZDOL5GTs5F0CoRayE0Nzdyw&usqp=CAU"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="30" src="https://git-scm.com/images/logos/2color-lightbg@2x.png"></code>
-<code><img height="50" src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png"></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqSyWN3NTgVt613TRMroNlh_t52vo3tbXW2A&usqp=CAU"></code>
-<code><img height="50" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png"></code>
-
-
-## Worked With
-
-- [Tokey](https://github.com/Tokey)
-- [Iftekhar Priyo](https://github.com/IftekharPriyo)
-- [Saif](https://github.com/msak04/msak04)
-
+> _"Gameplay first. Everything else follows."_
