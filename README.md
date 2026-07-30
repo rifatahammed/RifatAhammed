@@ -10,8 +10,8 @@
 
 ### ⚙️ Unreal Engine Generalist
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=500&lines=Loading+Gameplay+Systems...;Compiling+Blueprints...;Building+Worlds...;Ready+to+Play." />
+<p align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=17&duration=1800&pause=900&color=FFFFFF&vCenter=true&width=300&lines=Shader+Compiling+(12%2F6745)...;Build+Failed.;Fatal+Error.;UE+Has+Crashed.;Compiling+Error..." />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-ahammed/)
