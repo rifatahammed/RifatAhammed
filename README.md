@@ -10,7 +10,10 @@
 
 ### ⚙️ Unreal Engine Generalist
 
-[![Gmail](https://img.shields.io/badge/-Send%20Mail-14171A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reardj007@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=500&lines=Loading+Gameplay+Systems...;Compiling+Blueprints...;Building+Worlds...;Ready+to+Play." />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-14171A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-ahammed/)
 
 ---
@@ -34,9 +37,6 @@ My focus is designing mechanics, prototyping ideas, and building gameplay system
 ---
 
 ## Connect
-
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/rifat-ahammed/
 
 - 📧 Email  
   reardj007@gmail.com
