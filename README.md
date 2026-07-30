@@ -2,9 +2,7 @@
 <img align="right" height="260" width="300" src="https://github.com/rifatahammed/RifatAhammed/blob/main/bye.gif">
 </a>
 
-# Hi there 👋
-
-# I'm Rifat Ahammed
+## Hi, this is RIFF
 
 ### 🎮 Game Designer & Gameplay Programmer
 
