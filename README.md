@@ -40,4 +40,4 @@ My focus is designing mechanics, prototyping ideas, and building gameplay system
 
 ---
 
-> _"Thanks each of you from itch.io"_
+> _"Each of you on itch.io—thank you!"_
